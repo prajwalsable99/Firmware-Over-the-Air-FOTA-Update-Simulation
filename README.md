@@ -72,7 +72,12 @@ This will start the subscriber, which connects to the MQTT broker (broker.emqx.i
 
 -Run the subscriber script: python subscriber.py – This listens for update notifications and handles the firmware update process.
 
-    
+
+
+## Outputs 
+![image](https://github.com/user-attachments/assets/376346eb-f89a-443f-aa4e-bd2347500af6)
+![image](https://github.com/user-attachments/assets/fc6416c8-d6d3-4c1f-963c-ffe540f142b2)
+
 
 
 ## Technologies
